@@ -7,7 +7,7 @@ This is an Android application for the Simple Twitter Client using the Twitter A
 
 **Time spent:**
 
-**Completed user stories in base project (SimpleTwitterClient): **
+**Completed user stories in base project (SimpleTwitterClient):**
 
 - [x] User can sign into Twitter using OAuth login
 - [x] User can view the tweets from their home timeline:
