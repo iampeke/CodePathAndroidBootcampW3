@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".TimelineActivity" >
+    <item android:id="@+id/miCreateTweet"
+        android:title="Create Tweet"
+        android:icon="@drawable/ic_tweet_icon"
+        android:onClick="onCreateTweetMenuItem"
+        android:showAsAction="always" />
+
+</menu>
