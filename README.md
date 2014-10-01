@@ -34,5 +34,14 @@ This is an Android application for the Simple Twitter Client using the Twitter A
 
 ![Video Walkthrough](TwitterClientPopUpAndCounter.gif)
 
+**Addition of Pull to Refresh to modifications to base user stories (SimpleTwitterClientPullToRefresh):**
+Added Pull to Refresh feature using the third party library: chrisbanes/ActionBar-PullToRefresh
+
+- [x] User can now pull to refresh tweets on their home timeline
+
+**Walkthrough of new pull to refresh feature (SimpleTwitterClientPullToRefresh):**
+
+![Video Walkthrough](TwitterClientPullToRefresh.gif)
+
 GIFs created with [LiceCap](http://www.cockos.com/licecap/).
 
