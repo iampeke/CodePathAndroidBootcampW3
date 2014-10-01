@@ -24,5 +24,15 @@ This is an Android application for the Simple Twitter Client using the Twitter A
 
 ![Video Walkthrough](TwitterClient.gif)
 
+**Modifications to base user stories (SimpleTwitterClientPopUpAndCounter):**
+
+- [x] When user creates a new tweet, now instead of changing screens a tweet entry dialog pops up.
+    - The user can see how many characters they have left to type until they hit Twitter's 140 character limit for a tweet.
+    - The dialog will not allow the user to enter any more than 140 characters into the text entry field
+
+**Walkthrough of new features added to base user story (SimpleTwitterClientPopUpAndCounter):**
+
+![Video Walkthrough](TwitterClientPopUpAndCounter.gif)
+
 GIFs created with [LiceCap](http://www.cockos.com/licecap/).
 
